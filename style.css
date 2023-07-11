@@ -94,7 +94,7 @@ section {
 .ImageTwo {
     width: 170px;
     float: right;
-    
+    padding-left: 20px;
 }
 
 .ImageThree {
