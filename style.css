@@ -134,3 +134,7 @@ p {
 .button {
     margin-top: 5px;
 }
+
+.submit {
+    text-decoration: none;
+}
